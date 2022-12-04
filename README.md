@@ -271,23 +271,10 @@
 
 >  Other
  
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-  </tr> 
-</table>
-
-## :package: Packages
-- [lodash-omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
 
 ## :comet: Contact
 <a href="#virus231-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=virus231&show_icons=true&locale=en&layout=compact&theme=react" alt="virus231" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=virus231&theme=dark&show_icons=true" alt="virus231" />
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/virus231)**
