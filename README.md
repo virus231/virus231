@@ -1,28 +1,16 @@
-<a href="https://github.com/siberiacancode">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
-      siberiacancode" align="center"/>
-</a>
+<h1 align="left">:wave: Hello there! I'm Vladyslav Prodan</h1>
 
 
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
-
-<div>
-<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
-</div>
-
-<h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
+<h4 align="left">I'm a Full-Stack Web Developer</h4>
 
 <a href="#debabin-title">
   <img src="https://github-readme-stats.vercel.app/api?username=debabin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
+- :office: &nbsp;I'm currently working at **[PDK]()**
 - :fire: &nbsp;I develop for all platforms using **Typescript**
-- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
 - :speech_balloon: &nbsp;Extensive development experience 
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
 
 <br>
 
