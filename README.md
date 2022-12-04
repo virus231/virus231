@@ -284,7 +284,7 @@
 
 ## :comet: Contact
 <a href="#virus231-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=virus231&show_icons=true&locale=en&layout=compact&theme=react" alt="virus231" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virus231&layout=compact" alt="virus231" />
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/virus231)**
