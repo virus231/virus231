@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=virus231&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="virus231" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently not working()**
+- :office: &nbsp;I'm currently not working
 - :fire: &nbsp;I develop for all platforms using **Typescript**
 - :speech_balloon: &nbsp;Extensive development experience 
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
