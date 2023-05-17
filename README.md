@@ -71,49 +71,6 @@
   </tr> 
 </table>
 
->  Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-   <td align="center"  width="96">
-      <a href="#virus231-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
-   <td align="center"  width="96">
-      <a href="#virus231-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
-      </a>
-      <br>Playwright
-    </td>
-    <td align="center" width="96"> 
-      <a href="#virus231-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="96"> 
-      <a href="#virus231-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
-      </a>
-      <br>Storybook
-    </td>
-  </tr> 
-</table>
-
 >  Frontend
  
 <table width='100%'>
@@ -136,24 +93,13 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96"> 
-      <a href="#virus231-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center"  width="96">
-      <a href="#virus231-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
+   <td align="center" width="96">
+    <a href="#virus231-stack">
+      <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+    </a>
+    <br>MUI
+  </td>
+   
    <td align="center" width="96">
       <a href="#virus231-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
@@ -203,19 +149,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
-    </td>
-  </tr> 
-</table>
-
->  Mobile
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
     </td>
   </tr> 
 </table>
@@ -270,17 +203,6 @@
 </table>
 
 >  Other
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#virus231-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-  </tr> 
-</table>
 
 ## :comet: Contact
 <a href="#virus231-title">
