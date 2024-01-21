@@ -4,7 +4,7 @@
 <h4 align="left">I'm a Full-Stack Web Developer</h4>
 
 <a href="#virus231-title">
-![](https://github-readme-streak-stats.herokuapp.com/?user=virus231&theme=tokyonight&hide_border=false)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=virus231&theme=tokyonight&hide_border=false)<br/>
 </a>
 
 - :office: &nbsp;I'm currently not working
