@@ -204,6 +204,6 @@
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/virus231)**
-- :airplane: &nbsp;**[Telegram](https://t.me/virus231)**
+- :airplane: &nbsp;**[Telegram](https://t.me/Virus2310)**
 
 <br>
