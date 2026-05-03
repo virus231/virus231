@@ -2,14 +2,6 @@
 
 <h3 align="left">Full-Stack Web Developer | TypeScript, React, Next.js, Vue & Nuxt</h3>
 
-<a href="https://github.com/virus231">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=virus231&show_icons=true&theme=react&count_private=true&include_all_commits=true" 
-    alt="Vladyslav Prodan GitHub stats" 
-    align="right" 
-  />
-</a>
-
 I’m a web developer focused on building modern, scalable, and user-friendly applications.  
 I work mainly with **TypeScript**, **React**, **Next.js**, **Vue**, **Nuxt**, and backend technologies.
 
@@ -18,8 +10,6 @@ I work mainly with **TypeScript**, **React**, **Next.js**, **Vue**, **Nuxt**, an
 - 🎨 I care about UI quality, UX details, and responsive design
 - 🧩 I work with both frontend and backend technologies
 - 🚀 I enjoy turning ideas into real production-ready products
-
-<br clear="right"/>
 
 ---
 
@@ -181,12 +171,9 @@ I work mainly with **TypeScript**, **React**, **Next.js**, **Vue**, **Nuxt**, an
 
 <h2 align="left">📊 GitHub Activity</h2>
 
-<a href="https://github.com/virus231">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=virus231&layout=compact&theme=react" 
-    alt="Top languages" 
-  />
-</a>
+<p align="left">
+  You can explore my repositories and activity directly on my GitHub profile.
+</p>
 
 ---
 
