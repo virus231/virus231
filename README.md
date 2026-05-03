@@ -180,6 +180,7 @@ I work mainly with **TypeScript**, **React**, **Next.js**, **Vue**, **Nuxt**, an
 <h2 align="left">💬 Contact</h2>
 
 - GitHub: **[virus231](https://github.com/virus231)**
+- LinkedIn: **[Vladyslav Prodan](https://www.linkedin.com/in/vladyslav-prodan-4865891a0/)**
 - Telegram: **[Virus2310](https://t.me/Virus2310)**
 
 <br>
